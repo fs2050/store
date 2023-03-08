@@ -1,0 +1,7 @@
+{
+    "O :attribute deve conter pelo menos um letra.": "O :attribute deve conter pelo menos um letter.",
+    "O :attribute deve conter pelo menos um numero.": "O :attribute deve conter pelo menos um number.",
+    "O :attribute deve conter pelo menos um simbolo.": "O :attribute deve conter pelo menos um symbol.",
+    "O :attribute deve conter pelo menos um maiúscula e uma letra minúscula.": "O :attribute deve conter pelo menos um maiúscula e uma letra minúscula.",
+    "O given :attribute apareceu em um vazamento de dados. Escolha um diferente:attribute.": "O given :attribute apareceu em um vazamento de dados. Escolha um diferente:attribute."
+}
